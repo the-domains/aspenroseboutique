@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Walk through the Canyons of Ouray with this softly faded Aztec tank. Pair with your favorite\_skinny\_jeans or shorts…you simply can’t go wrong with this top! Grab one here: http://www.aspenrose.boutique/product/ouray-canyon-top/"
-datePublished: '2016-03-09T05:34:19.611Z'
-dateModified: '2016-03-09T05:33:48.314Z'
+datePublished: '2016-03-09T05:40:20.055Z'
+dateModified: '2016-03-09T05:34:39.239Z'
 title: Ouray Canyon Top
 author: []
 sourcePath: _posts/2016-03-09-ouray-canyon-top.md
@@ -34,3 +34,4 @@ MADE IN USA
 
 S (0-2)  M (4-6)  L (8-10)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b256f5ed-675a-4b28-9137-0d0193687629.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e47bc88f-e647-4aac-967a-a806b552667d.jpg)
